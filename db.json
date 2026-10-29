@@ -1,0 +1,40 @@
+{
+  "pessoas": [
+    {
+      "id": 1,
+      "nome": "Maria",
+      "idade": 20,
+      "cpf": "123.456.789-00"
+    },
+    {
+      "nome": "Pedro",
+      "idade": "30",
+      "cpf": "111.222.333-44",
+      "id": 4
+    },
+    {
+      "nome": "Tiago",
+      "idade": "67",
+      "cpf": "999.888.777-66",
+      "id": 5
+    },
+    {
+      "nome": "Xaolin matador de porco",
+      "idade": "16",
+      "cpf": "676.767.676-67",
+      "id": 6
+    },
+    {
+      "nome": "Valerio Candido",
+      "idade": "23",
+      "cpf": "666.666.666-67",
+      "id": 7
+    },
+    {
+      "nome": "Piong li",
+      "idade": "11111111",
+      "cpf": "123.456.789-00",
+      "id": 8
+    }
+  ]
+}
